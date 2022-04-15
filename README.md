@@ -2,72 +2,80 @@
 
 - [CornConeDetector](README.md#cornconedetector)
 
+### Template
 
-## Template
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []()                   |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  |                        |
 
-|            | <img src="" width=64> |
-|:-----------|:-------------: |
-| Repository | []() |
-| Platform   | iOS |
-| Project type | App |
-| Screenshots| <img src="" width=256> |
-| Description | |
+## Health
 
-## CornConeDetector
+### Calories
 
-|            | <img src="https://raw.githubusercontent.com/Shakshi3104/CornConeDetector/main/materials/CornConeIcon.png" width=64> |
-|:-----------|:-------------: |
-| Repository | [CornConeDetector](https://github.com/Shakshi3104/CornConeDetector) |
-| Platform   | iOS |
-| Project type | App |
-| Screenshots| <img src="https://raw.githubusercontent.com/Shakshi3104/CornConeDetector/main/materials/IMG_5142.PNG" width=256> |
-| Description | Detect corn (sweet corn) or cone (road cones, traffic cones or pylons). |
+### Body Temperature
 
+## Activity recognition
 
+### Motion+CoreML
 
-## Activity Classification
+### Activitybench
 
-## Activitybench v1
+### footway
 
-## Vision+ML SwiftUI
+### Activity Classification
 
-## TamagotchiPet
+### Activitybench v1
 
-## ANATA for DREAM
+## Utilities
 
-## Battery XD
+### Core Wafer
 
-## Logger
+### Guafre
 
-## Body Temperature 
+### DeviceHardware
 
-## devicehard
+### devicehard
 
-## tamagotchOS
+### ProcessorKit
 
-## footway
+### Battery XD
 
-## Meat
+### Logger
 
-## DepthMap
+## Image recognition
 
-## DualDepth
+### Vision+ML SwiftUI
 
-## DepthBrewer
+### Meat
 
-## ProcessorKit
+### JohnnyFace
 
-## Motion+CoreML
+### CornConeDetector
 
-## Core Wafer
+|              | <img src="https://raw.githubusercontent.com/Shakshi3104/CornConeDetector/main/materials/CornConeIcon.png" width=64> |
+|:------------ |:-------------------------------------------------------------------------------------------------------------------:|
+| Repository   | [CornConeDetector](https://github.com/Shakshi3104/CornConeDetector)                                                 |
+| Platform     | iOS                                                                                                                 |
+| Project type | App                                                                                                                 |
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/CornConeDetector/main/materials/IMG_5142.PNG" width=256>    |
+| Description  | Detect corn (sweet corn) or cone (road cones, traffic cones or pylons).                                             |
 
-## Guafre
+## Image
 
-## Calories
+### DepthMap
 
-## Activitybench
+### DualDepth
 
-## DeviceHardware
+### DepthBrewer
 
-## JohnnyFace
+## Mock
 
+### ANATA for DREAM
+
+### tamagotchOS
+
+### TamagotchiPet
