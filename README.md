@@ -200,15 +200,14 @@
 
 ### DepthMap
 
-<!------
-|              | <img src="" width=64>  |
+|              | <!--<img src="" width=64>-->  |
 |:------------ |:----------------------:|
-| Repository   | []() |
+| Repository   | [DepthMap](https://github.com/Shakshi3104/DepthMap) |
 | Platform     | iOS                    |
 | Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/DepthMap/main/materials/depthmap.gif" width=256> |
+| Description  | Obtain a depth map from a LiDAR scanner |
+
 
 ### DualDepth
 
