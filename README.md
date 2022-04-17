@@ -167,15 +167,13 @@
 
 ### Meat
 
-<!------
-|              | <img src="" width=64>  |
+|              | <!--<img src="" width=64>-->  |
 |:------------ |:----------------------:|
-| Repository   | []() |
+| Repository   | [Meat-CoreML](https://github.com/Shakshi3104/Meat-CoreML) |
 | Platform     | iOS                    |
 | Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Screenshots  | <img src="materials/meat-coreml.png" width=256> |
+| Description  | classify meat parts from raw meat images |
 
 ### JohnnyFace
 
