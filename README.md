@@ -112,15 +112,13 @@
 
 ### devicehard
 
-<!------
-|              | <img src="" width=64>  |
+|              |   |
 |:------------ |:----------------------:|
-| Repository   | []() |
-| Platform     | iOS                    |
-| Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Repository   | [devicehard](https://github.com/Shakshi3104/devicehard) |
+| Platform     | macOS                    |
+| Project type | Command Line Tool                    |
+| Screenshots  | <img src="https://github.com/Shakshi3104/devicehard/raw/main/materials/result_intel_mac_v1.gif" width=512> |
+| Description  | get hardware information of Mac devices | 
 
 ### ProcessorKit
 
