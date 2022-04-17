@@ -101,15 +101,13 @@
 
 ### DeviceHardware
 
-<!------
-|              | <img src="" width=64>  |
+|              | <!--<img src="" width=64>-->  |
 |:------------ |:----------------------:|
-| Repository   | []() |
-| Platform     | iOS                    |
-| Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Repository   | [DeviceHardware]() |
+| Platform     | iOS, macOS                    |
+| Project type | Swift Package                    |
+| Screenshots  | <img src="materials/device_hardware.PNG" width=256> |
+| Description  | Package for getting iPhone, iPad and Mac model names and hardware information, such as SoC name. |
 
 
 ### devicehard
