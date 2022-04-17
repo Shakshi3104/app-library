@@ -56,6 +56,17 @@
 | Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/Activitybench/main/materials/activitybench_iphone.png" width=512> |
 | Description  | Benchmarking convolutional neural networks for sensor-based human activity recognition on iPhone |
 
+### Hopper
+
+|              | <!--<img src="" width=64>-->  |
+|:------------ |:----------------------:|
+| Repository   | [Hopper](https://github.com/Shakshi3104/Hopper) |
+| Platform     | watchOS, iOS           |
+| Project type | App                    |
+| Screenshots  | <p align="center"> <img src="https://raw.githubusercontent.com/Shakshi3104/Hopper/main/materials/IMG_5760.PNG" width=256> <img src="https://github.com/Shakshi3104/Hopper/raw/main/materials/IMG_5761.PNG" width=256> </p> |
+| Description  | Detect motion on a trampoline from acceleration data with Core ML |
+
+
 ### footway
 
 |              | <!--<img src="" width=64>-->  |
