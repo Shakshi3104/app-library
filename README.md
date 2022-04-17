@@ -134,15 +134,13 @@
 
 ### Battery XD
 
-<!------
-|              | <img src="" width=64>  |
+|              | <img src="https://raw.githubusercontent.com/Shakshi3104/BatteryXD/main/materials/AppIcon.png" width=64>  |
 |:------------ |:----------------------:|
-| Repository   | []() |
-| Platform     | iOS                    |
+| Repository   | [BatteryXD](https://github.com/Shakshi3104/BatteryXD) |
+| Platform     | iOS, watchOS           |
 | Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/BatteryXD/main/materials/widget-small.PNG" width=256> |
+| Description  | •ᴗ• Cute battery widget built in SwiftUI |
 
 ### Logger
 
