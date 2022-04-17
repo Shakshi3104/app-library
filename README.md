@@ -69,6 +69,7 @@
 | Repository   | [CornConeDetector](https://github.com/Shakshi3104/CornConeDetector)                                                 |
 | Platform     | iOS                                                                                                                 |
 | Project type | App                                                                                                                 |
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/CornConeDetector/main/materials/IMG_5142.PNG" width=128>    |
 | Description  | Detect corn (sweet corn) or cone (road cones, traffic cones or pylons).                                             |
 
 ## Image
