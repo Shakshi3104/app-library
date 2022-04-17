@@ -246,22 +246,20 @@
 
 ### tamagotchOS
 
-|              | <img src="" width=64>  |
+|              | <img src="https://raw.githubusercontent.com/Shakshi3104/tamagotchOS/main/materials/tamagotchOSIcon.png" width=64>  |
 |:------------ |:----------------------:|
-| Repository   | []() |
+| Repository   | [tamagotchOS](https://github.com/Shakshi3104/tamagotchOS) |
 | Platform     | iOS                    |
 | Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/tamagotchOS/main/materials/tamagotchOSv0.3.0.gif" width=256> |
+| Description  | watchOS-like Tamagotchi Smart |
 
 ### TamagotchiPet
 
-<!------
-|              | <img src="" width=64>  |
+|              |   |
 |:------------ |:----------------------:|
-| Repository   | []() |
+| Repository   | [TamagotchiPet](https://github.com/Shakshi3104/TamagotchiPet) |
 | Platform     | iOS                    |
 | Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/TamagotchiPet/main/materials/IMG_4277.PNG" width=256> |
+| Description  | Keep Tamagotchi with Widget, built in SwiftUI |
