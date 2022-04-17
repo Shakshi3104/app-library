@@ -1,7 +1,5 @@
 # App Library
 
-- [CornConeDetector](README.md#cornconedetector)
-
 ### Template
 
 |              | <img src="" width=64>  |
