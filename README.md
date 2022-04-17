@@ -26,6 +26,14 @@
 
 ### Body Temperature
 
+|              | <img src="https://raw.githubusercontent.com/Shakshi3104/BodyTemperature/main/materials/BodyTemperatureIcon.png" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | [BodyTemperature](https://github.com/Shakshi3104/BodyTemperature) |
+| Platform     | watchOS                |
+| Project type | App                    |
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/BodyTemperature/main/materials/BodyTemperature.gif" width=256> |
+| Description  | Body Temperature app for Apple Watch built in SwiftUI (Joke app) |
+
 ## Activity recognition
 
 ### Motion+CoreML
