@@ -58,6 +58,14 @@
 
 ### footway
 
+|              | <!--<img src="" width=64>-->  |
+|:------------ |:----------------------:|
+| Repository   | [footway](https://github.com/Shakshi3104/footway) |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="https://github.com/Shakshi3104/footway/raw/master/materials/SSTC-demo.gif" width=256> |
+| Description  | Classify sidewalk surface type from acceleration data with Core ML |
+
 ### Activity Classification
 
 
