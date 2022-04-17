@@ -101,21 +101,102 @@
 
 ### DeviceHardware
 
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
+
+
 ### devicehard
+
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
 
 ### ProcessorKit
 
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
+
 ### Battery XD
 
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
+
 ### Logger
+
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
 
 ## Image recognition
 
 ### Vision+ML SwiftUI
 
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
+
 ### Meat
 
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
+
 ### JohnnyFace
+
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
 
 ### CornConeDetector
 
@@ -131,14 +212,74 @@
 
 ### DepthMap
 
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
+
 ### DualDepth
 
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
+
 ### DepthBrewer
+
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
 
 ## Mock
 
 ### ANATA for DREAM
 
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
+
 ### tamagotchOS
 
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
+
 ### TamagotchiPet
+
+<!------
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | []() |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="" width=256> |
+| Description  | |
+------> 
