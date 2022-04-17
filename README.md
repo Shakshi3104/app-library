@@ -81,7 +81,23 @@
 
 ### Core Wafer
 
+|              | <img src="https://raw.githubusercontent.com/Shakshi3104/CoreWafer/main/corewafer.png" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | [CoreWafer](https://github.com/Shakshi3104/CoreWafer) |
+| Platform     | macOS, iOS                    |
+| Project type | Swift Package                  |
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/CoreWafer/main/demo.gif" width=256> |
+| Description  | 🧇 Package for Gaufre and Waffle |
+
 ### Guafre
+
+|              | <img src="https://raw.githubusercontent.com/Shakshi3104/Gaufre/main/materials/gaufre-icon.png" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | [Guafre](https://github.com/Shakshi3104/Gaufre) |
+| Platform     | macOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/Gaufre/main/materials/gaufre.gif" width=256> |
+| Description  | 🧇 Check load of each core of CPU on your Mac menu bar. |
 
 ### DeviceHardware
 
