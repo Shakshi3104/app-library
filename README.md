@@ -211,27 +211,25 @@
 
 ### DualDepth
 
-<!------
-|              | <img src="" width=64>  |
+|              | <!--<img src="" width=64>-->  |
 |:------------ |:----------------------:|
-| Repository   | []() |
+| Repository   | [DualDepth](https://github.com/Shakshi3104/DualDepth) |
 | Platform     | iOS                    |
 | Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/DualDepth/main/materials/dualdepth.png" width=256> |
+| Description  | Obtain a depth map from dual camera |
+
 
 ### DepthBrewer
 
-<!------
-|              | <img src="" width=64>  |
+|              | <img src="https://raw.githubusercontent.com/Shakshi3104/DepthBrewer/main/materials/depthbrewer-iOS_icon.png" width=64>  |
 |:------------ |:----------------------:|
 | Repository   | []() |
-| Platform     | iOS                    |
+| Platform     | iOS, macOS              |
 | Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Screenshots  | <p align="center" > <img src="https://raw.githubusercontent.com/Shakshi3104/DepthBrewer/main/materials/depthbrewer-iOS-2.png" width=256> <img src="https://raw.githubusercontent.com/Shakshi3104/DepthBrewer/main/materials/depthbrewer-macOS-3.png" width=256> </p> |
+| Description  | Obtain a depth map from a portrait image |
+
 
 ## Mock
 
