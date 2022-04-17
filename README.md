@@ -227,7 +227,7 @@
 | Repository   | []() |
 | Platform     | iOS, macOS              |
 | Project type | App                    |
-| Screenshots  | <p align="center" > <img src="https://raw.githubusercontent.com/Shakshi3104/DepthBrewer/main/materials/depthbrewer-iOS-2.png" width=256> <img src="https://raw.githubusercontent.com/Shakshi3104/DepthBrewer/main/materials/depthbrewer-macOS-3.png" width=256> </p> |
+| Screenshots  | <p align="center" > <img src="https://raw.githubusercontent.com/Shakshi3104/DepthBrewer/main/materials/depthbrewer-iOS-2.png" width=256> <img src="https://raw.githubusercontent.com/Shakshi3104/DepthBrewer/main/materials/depthbrewer-macOS-3.png" width=512> </p> |
 | Description  | Obtain a depth map from a portrait image |
 
 
