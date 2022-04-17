@@ -233,21 +233,19 @@
 
 ## Mock
 
-### ANATA for DREAM
+### A・NA・TA for DREAM
 
-<!------
-|              | <img src="" width=64>  |
+|              | <!--<img src="" width=64>-->  |
 |:------------ |:----------------------:|
-| Repository   | []() |
+| Repository   | [ANATAforDREAM](https://github.com/Shakshi3104/ANATAforDREAM) |
 | Platform     | iOS                    |
 | Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/ANATAforDREAM/main/materials/anata4dream.gif" width=256> |
+| Description  | mitate A・NA・TA for DREAM with SwiftUI |
+
 
 ### tamagotchOS
 
-<!------
 |              | <img src="" width=64>  |
 |:------------ |:----------------------:|
 | Repository   | []() |
@@ -255,7 +253,6 @@
 | Project type | App                    |
 | Screenshots  | <img src="" width=256> |
 | Description  | |
-------> 
 
 ### TamagotchiPet
 
