@@ -98,6 +98,7 @@
 | Project type | App                    |
 | Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/Gaufre/main/materials/gaufre.gif" width=256> |
 | Description  | 🧇 Check load of each core of CPU on your Mac menu bar. |
+| Related package | [DeviceHardware](README.md#devicehardware), [ProcessorKit](README.md#processorkit) |
 
 ### DeviceHardware
 
@@ -122,15 +123,14 @@
 
 ### ProcessorKit
 
-<!------
-|              | <img src="" width=64>  |
+
+|              |  |
 |:------------ |:----------------------:|
-| Repository   | []() |
-| Platform     | iOS                    |
-| Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Repository   | [ProcessorKit](https://github.com/Shakshi3104/ProcessorKit) |
+| Platform     | iOS, macOS             |
+| Project type | Swift Package                    |
+| Description  | package for getting CPU usage on iPhone, iPad, and Mac. |
+
 
 ### Battery XD
 
