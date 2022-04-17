@@ -60,7 +60,6 @@
 
 ### Activity Classification
 
-### Activitybench v1
 
 ## Utilities
 
