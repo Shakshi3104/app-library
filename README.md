@@ -177,15 +177,14 @@
 
 ### JohnnyFace
 
-<!------
-|              | <img src="" width=64>  |
+|              | <!--<img src="" width=64>-->  |
 |:------------ |:----------------------:|
-| Repository   | []() |
+| Repository   | [JohnnyFace](https://github.com/Shakshi3104/JohnnyFace) |
 | Platform     | iOS                    |
 | Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/JohnnyFace/main_v1/materials/IMG_4856.PNG" width=256> |
+| Description  | Detect Johnny's face with Core ML and Vision |
+| Related repository | [isJohnnys](https://github.com/Shakshi3104/isJohnnys) |
 
 ### CornConeDetector
 
@@ -194,7 +193,7 @@
 | Repository   | [CornConeDetector](https://github.com/Shakshi3104/CornConeDetector)                                                 |
 | Platform     | iOS                                                                                                                 |
 | Project type | App                                                                                                                 |
-| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/CornConeDetector/main/materials/IMG_5142.PNG" width=128>    |
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/CornConeDetector/main/materials/IMG_5142.PNG" width=256>    |
 | Description  | Detect corn (sweet corn) or cone (road cones, traffic cones or pylons).                                             |
 
 ## Image
