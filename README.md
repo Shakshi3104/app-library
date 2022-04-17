@@ -38,7 +38,7 @@
 
 ### Motion+CoreML
 
-|              | <img src="" width=64>  |
+|              | <!--<img src="" width=64>-->  |
 |:------------ |:----------------------:|
 | Repository   | [Motion-CoreML](https://github.com/Shakshi3104/Motion-CoreML) |
 | Platform     | iOS                    |
@@ -46,7 +46,15 @@
 | Screenshots  | Under construction... <!--<img src="" width=256>--> |
 | Description  | Classify activities from acceleration data with Core ML |
 
-### Activitybench
+### Activitybench 3
+
+|              | <!--<img src="" width=64>-->  |
+|:------------ |:----------------------:|
+| Repository   | [Activitybench](https://github.com/Shakshi3104/Activitybench) |
+| Platform     | iOS, macOS (Catalyst)  |
+| Project type | App                    |
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/Activitybench/main/materials/activitybench_iphone.png" width=512> |
+| Description  | Benchmarking convolutional neural networks for sensor-based human activity recognition on iPhone |
 
 ### footway
 
