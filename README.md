@@ -88,6 +88,7 @@
 | Project type | Swift Package                  |
 | Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/CoreWafer/main/demo.gif" width=256> |
 | Description  | 🧇 Package for Gaufre and Waffle |
+| Related package | [DeviceHardware](README.md#devicehardware), [ProcessorKit](README.md#processorkit) |
 
 ### Guafre
 
@@ -98,7 +99,6 @@
 | Project type | App                    |
 | Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/Gaufre/main/materials/gaufre.gif" width=256> |
 | Description  | 🧇 Check load of each core of CPU on your Mac menu bar. |
-| Related package | [DeviceHardware](README.md#devicehardware), [ProcessorKit](README.md#processorkit) |
 
 ### DeviceHardware
 
