@@ -38,6 +38,14 @@
 
 ### Motion+CoreML
 
+|              | <img src="" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | [Motion-CoreML](https://github.com/Shakshi3104/Motion-CoreML) |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | Under construction... <!--<img src="" width=256>--> |
+| Description  | Classify activities from acceleration data with Core ML |
+
 ### Activitybench
 
 ### footway
