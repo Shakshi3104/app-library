@@ -144,29 +144,26 @@
 
 ### Logger
 
-<!------
-|              | <img src="" width=64>  |
+|              | <!--<img src="" width=64>-->  |
 |:------------ |:----------------------:|
-| Repository   | []() |
-| Platform     | iOS                    |
+| Repository   | [Logger7](https://github.com/Shakshi3104/Logger7) |
+| Platform     | iOS, watchOS                    |
 | Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Screenshots  | <p align="center"> <img src="https://raw.githubusercontent.com/Shakshi3104/Logger7/main/materials/IMG_0009.PNG" width=256> <img src="https://raw.githubusercontent.com/Shakshi3104/Logger7/main/materials/IMG_4157.PNG" width=256> </p> |
+| Description  | Accelerometer app built in SwiftUI, support for iPhone, Apple Watch and AirPods Pro |
 
 ## Image recognition
 
 ### Vision+ML SwiftUI
 
-<!------
-|              | <img src="" width=64>  |
+|              |  |
 |:------------ |:----------------------:|
-| Repository   | []() |
+| Repository   | [Vision-ML-SwiftUI](https://github.com/Shakshi3104/Vision-ML-SwiftUI) |
 | Platform     | iOS                    |
 | Project type | App                    |
-| Screenshots  | <img src="" width=256> |
-| Description  | |
-------> 
+| Screenshots  | <img src="materials/vision-ml-swiftui.PNG" width=256> |
+| Description  | Classifying Images with Vision, Core ML and SwiftUI |
+ 
 
 ### Meat
 
