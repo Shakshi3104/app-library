@@ -241,7 +241,7 @@
 | Platform     | iOS                    |
 | Project type | App                    |
 | Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/ANATAforDREAM/main/materials/anata4dream.gif" width=256> |
-| Description  | mitate A・NA・TA for DREAM with SwiftUI |
+| Description  | Imitate A・NA・TA for DREAM with SwiftUI |
 
 
 ### tamagotchOS
