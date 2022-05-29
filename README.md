@@ -79,6 +79,17 @@
 
 ## Utilities
 
+### SFSymbols Quiz
+
+|              | <img src="https://raw.githubusercontent.com/Shakshi3104/SFSymbolsQuiz/main/materials/SFSymbolsQuiz_icon.png" width=64>  |
+|:------------ |:----------------------:|
+| Repository   | [SFSymbolsQuiz](https://github.com/Shakshi3104/SFSymbolsQuiz) |
+| Platform     | iOS                    |
+| Project type | App                    |
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/SFSymbolsQuiz/main/materials/screenshots_quiz.png" width=512> |
+| Description  | SF Symbols 4-choice quiz app |
+
+
 ### Core Wafer
 
 |              | <img src="https://raw.githubusercontent.com/Shakshi3104/CoreWafer/main/corewafer.png" width=64>  |
