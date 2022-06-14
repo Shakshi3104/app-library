@@ -21,8 +21,8 @@
 | Repository   | [Calories](https://github.com/Shakshi3104/Calories) |
 | Platform     | iOS                    |
 | Project type | App                    |
-| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/Calories/main/materials/screenshots.PNG" width=256> |
-| Description  | See your intake and consumption energy on the Widget |
+| Screenshots  | <img src="https://raw.githubusercontent.com/Shakshi3104/Calories/main/materials/screenshots_v2.png" width=256> |
+| Description  | See your energy balance and nutrition intake on the Widget |
 
 ### Body Temperature
 
